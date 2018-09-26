@@ -4,3 +4,4 @@ Useless tricks
 * Work with remotes
 * Work with branches
 * Work with pull requests
+* Work with local branches
