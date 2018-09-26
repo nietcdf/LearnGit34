@@ -10,3 +10,6 @@ Useless tricks
 Learn to view log in a tree like fashion from the command line:
 
    **git log --oneline --graph --decorate --all**
+
+Learn about merge rebase
+   **https://youtu.be/TymF3DpidJ8**
