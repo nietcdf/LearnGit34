@@ -5,3 +5,4 @@ Useless tricks
 * Work with branches
 * Work with pull requests
 * Work with local branches
+* Merge and Rebase
