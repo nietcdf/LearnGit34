@@ -7,4 +7,4 @@ Useless tricks
 * Work with local branches
 
 Learn to view log in a tree like fashion from the command line:
-git log --oneline --graph --decorate --all
+**git log --oneline --graph --decorate --all**
