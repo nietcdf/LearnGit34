@@ -13,3 +13,5 @@ Learn to view log in a tree like fashion from the command line:
 
 Learn about merge rebase
    **https://youtu.be/TymF3DpidJ8**
+
+# Learn  more tricks
